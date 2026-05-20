@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I'm John, a Statistics student at the University of Central Florida<br><br>I build projects that implement machine learning models that decipher patterns and trends in data<br><br>I'm currently exploring machine learning, statistical modeling, and LLM development<br><br>
+### Hi there 👋<br><br>I'm John, a Statistics graduate at the University of Central Florida<br><br>I build projects that implement machine learning models that decipher patterns and trends in data<br><br>I'm currently exploring machine learning, statistical modeling, and LLM development<br><br>
 
 
 
